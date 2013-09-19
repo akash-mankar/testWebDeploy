@@ -1,1 +1,13 @@
 /classes
+
+/bin
+# ignore all bin directories
+# matches "bin" in any subfolder
+
+# ignore all target directories
+target/
+
+# ignore all files ending with ~
+*~
+# ignore all files beginning with .
+.* 
